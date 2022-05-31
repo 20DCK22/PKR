@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\Nikita\source\repos\Lab 3.3\Source.cpp(32,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Nikita\source\repos\Lab 3.3\Source.cpp(33,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Nikita\source\repos\Lab 3.3\Source.cpp(52,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nikita\source\repos\Lab 3.3\Source.cpp(97,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nikita\source\repos\Lab 3.3\Source.cpp(107,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nikita\source\repos\Lab 3.3\Source.cpp(170,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nikita\source\repos\Lab 3.3\Source.cpp(224,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nikita\source\repos\Lab 3.3\Source.cpp(242,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nikita\source\repos\Lab 3.3\Source.cpp(269,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nikita\source\repos\Lab 3.3\Source.cpp(271,35): warning C4018: >: несоответствие типов со знаком и без знака
+  Lab 3.3.vcxproj -> C:\Users\Nikita\source\repos\Lab 3.3\Debug\Lab 3.3.exe
