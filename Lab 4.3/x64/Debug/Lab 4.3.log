@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\Nikita\source\repos\Lab 4.3\Source.cpp(36,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Nikita\source\repos\Lab 4.3\Source.cpp(37,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Nikita\source\repos\Lab 4.3\Source.cpp(74,15): error C3861: Parse: идентификатор не найден
+C:\Users\Nikita\source\repos\Lab 4.3\Source.cpp(141,18): error C3861: Parse: идентификатор не найден
+C:\Users\Nikita\source\repos\Lab 4.3\Source.cpp(159,40): error C3861: Parse: идентификатор не найден
+C:\Users\Nikita\source\repos\Lab 4.3\Source.cpp(242,40): error C3861: Parse: идентификатор не найден
+C:\Users\Nikita\source\repos\Lab 4.3\Source.cpp(290,40): error C3861: Parse: идентификатор не найден
+C:\Users\Nikita\source\repos\Lab 4.3\Source.cpp(355,18): error C3861: Parse: идентификатор не найден
+C:\Users\Nikita\source\repos\Lab 4.3\Source.cpp(356,31): warning C4018: >: несоответствие типов со знаком и без знака
