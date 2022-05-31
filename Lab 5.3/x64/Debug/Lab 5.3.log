@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\Nikita\source\repos\Lab 5.3\Source.cpp(113,11): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Nikita\source\repos\Lab 5.3\Source.cpp(136,11): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Nikita\source\repos\Lab 5.3\Source.cpp(183,11): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Nikita\source\repos\Lab 5.3\Source.cpp(214,11): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Nikita\source\repos\Lab 5.3\Source.cpp(238,6): warning C4101: ikurs: неиспользованная локальная переменная
+C:\Users\Nikita\source\repos\Lab 5.3\Source.cpp(241,6): warning C4101: iMath: неиспользованная локальная переменная
+C:\Users\Nikita\source\repos\Lab 5.3\Source.cpp(240,6): warning C4101: ispec: неиспользованная локальная переменная
+  Lab 5.3.vcxproj -> C:\Users\Nikita\source\repos\Lab 5.3\x64\Debug\Lab 5.3.exe
